@@ -10,6 +10,7 @@
 
 ### My refactored site was built using [Git Hub Pages](https://mcamy2001.github.io/urban-octo-telegram/).
 
+![Screenshot1](./assets/screenshot1.jpeg) ![Screenshot2](./assets/screenshot2.jpeg) ![Screenshot3](./assets/screenshot3.jpeg)
 
 ##### For this class assignment a Table of Contents, Installation Instructions, Usage Information, Credits, License Information, Badges, Features, and Tests are not necessary but I'd like to acknowledge that those would be included here when pertinent.
 

@@ -1,4 +1,4 @@
-# Challenge, week 1: Refactor starter code
+# Module 1: HTML & CSS, Challenge: Refactor starter code
 
 ## In this project I was tasked to take starter code for a company website and refactor it for accessibility and search engine optimization.
 
